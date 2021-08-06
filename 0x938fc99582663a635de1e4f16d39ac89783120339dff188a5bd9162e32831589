@@ -1,0 +1,52 @@
+[{
+	"id": 20,
+	"txhash": "0x938fc99582663a635de1e4f16d39ac89783120339dff188a5bd9162e32831589",
+	"data": {
+		"id": "WineMakingProcess",
+		"hash": "6e4c66fd3204f7e2d3fed15b06d49479ce8167953b8d780c7fa5129e614de8f4"
+	},
+	"timestamp": "Aug-06-2021 01:39:53 PM +UTC",
+	"status": "complete",
+	"source_data": 
+	[
+        {
+            "name": "Arrival of the grapes in the Winery",
+            "date": "03/09/2020"
+        },{
+            "name": "Analysis",
+            "date": "03/09/2020"
+        },
+        {
+            "name": "Soft pressing",
+            "date": "19/09/2020"
+        },{
+            "name": "De-stemming and crushing",
+            "date": "03/09/2020"
+        },{
+            "name": "Yeast inoculation",
+            "date": "03/09/2020"
+        },{
+            "name": "Maceration",
+            "date": "03/09/2020"
+        },{
+            "name": "Racking and devatting",
+            "date": "23/09/2020"
+        },{
+            "name": "Malolactic fermentation",
+            "date": "Within 2/3 weeks from harvesting"
+        },{
+            "name": "Wine load",
+            "date": "18/06/2021"
+        },{
+            "name": "Cellar storage",
+            "date": "22/6/2021"
+        },{
+            "name": "Tangential microfiltration",
+            "date": "29/07/2021"
+        }
+        ,{
+            "name": "Bottling",
+            "date": "04/08/2021"
+        } 
+    ]
+}]
