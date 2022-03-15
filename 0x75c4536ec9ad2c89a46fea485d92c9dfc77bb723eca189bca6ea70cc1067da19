@@ -1,0 +1,61 @@
+[{
+	"id": 36,
+	"txhash": "0x75c4536ec9ad2c89a46fea485d92c9dfc77bb723eca189bca6ea70cc1067da19",
+	"data": {
+		"id": "Cultivation",
+		"hash": "2f75aa1dbca5f91863dd05ec19dbbd8fa9e50aafa822139b79120cb3af352e66"
+	},
+	"timestamp": "Mar-15-2022 02:14:21 PM +UTC",
+	"status": "complete",
+	"source_data": 
+	[
+        {
+            "name": "Winter pruning",
+            "date": "17/12/2020"
+        },
+        {
+            "name": "Elimination of wood residuals among rows",
+            "date": "11/01/2021"
+        },
+        {
+            "name": "Cut of vine shoots on the field",
+            "date": "20/02/2021"
+        },
+        {
+            "name": "Shredding of pruning on the field",
+            "date": "23/02/2021"
+        },
+        {
+            "name": "Autumn seeding of green manuer field beans",
+            "date": "21/10/2020"
+        },
+        {
+            "name": "Pre-green manure field beans",
+            "date": "15/03/2021"
+        },{
+            "name": "Groundwork",
+            "date": "23/03/2021"
+        },{
+            "name": "Treatments",
+            "date": "06/04/2021"
+        },{
+            "name": "Shoot pruning and topping",
+            "date": "26/04/2021"
+        },{
+            "name": "Anti-oidium treatments",
+            "date": "03/05/2021"
+        },{
+            "name": "Green Pruning",
+            "date": "28/05/2021"
+        },{
+            "name": "Grapes thinning",
+            "date": "19/06/2021"
+        },{
+            "name": "Supplemental irrigation",
+            "date": "15/07/2021"
+        },{
+            "name": "Harvest",
+            "date": "09/2021"
+        }
+    ]
+}]
