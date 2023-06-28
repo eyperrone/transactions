@@ -1,0 +1,69 @@
+[{
+	"id": 12,
+	"txhash": "0x14183354092882a7f84ebcff34029b045e29217664588652de26dfaa16c6af2c",
+	"data": {
+		"id": "cultivation",
+		"hash": "e5a7629dbb2c957a6c8f6bcf46396604764ebc1b85302c0217d670a7a2e1c7e1"
+	},
+	"timestamp": "Jun-28-2023 09:36:14 AM +UTC",
+	"status": "complete",
+	"source_data": 
+	[
+        {
+            "name": "Winter pruning",
+            "date": "16/12/2021"
+        },
+        {
+            "name": "Elimination of wood residuals among rows",
+            "date": "10/01/2022"
+        },
+        {
+            "name": "Cut of vine shoots on the field",
+            "date": "23/02/2022"
+        },
+        {
+            "name": "Fruiting branches Tying",
+            "date": "26/02/2022"
+        },
+        {
+            "name": "Autumn seeding of green manuer field beans",
+            "date": "18/10/2021"
+        },
+        {
+            "name": "Ante-green manure field beans",
+            "date": "14/03/2022"
+        },
+        {
+            "name": "Field interventions",
+            "date": "16/03/2022"
+        },
+        {
+            "name": "Treatments",
+            "date": "07/04/2022"
+        },
+        {
+            "name": "Shoot pruning and topping",
+            "date": "26/04/2022"
+        },
+        {
+            "name": "Anti-oidium treatments",
+            "date": "02/05/2022"
+        },
+        {
+            "name": "Green Pruning",
+            "date": "23/05/2022"
+        },
+        {
+            "name": "Grapes thinning",
+            "date": "13/06/2022"
+        },
+        {
+            "name": "Deficit irrigation",
+            "date": "13/07/2022"
+        },
+        {
+            "name": "Harvest",
+            "date": "aug-22"
+        }
+    ]
+}]
